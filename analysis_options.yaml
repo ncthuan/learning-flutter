@@ -1,0 +1,5 @@
+# https://www.dartlang.org/guides/language/analysis-options
+# https://stackoverflow.com/questions/53188526/flutter-dart-my-mainmodel-class-is-inheriting-from-model-of-the-scoped-model-p
+analyzer:
+  errors:
+    mixin_inherits_from_not_object: ignore
